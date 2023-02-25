@@ -1,0 +1,69 @@
+{
+  "profile_intro": "Hi I am Anup!\n - Android Developer with 5+ years of experience building Android apps and SDKs\n - Maintains SDK that runs on thousands of apps producing millions of sessions every week\n - Prioritizes improvement of junior team members\n - Thrives in collaborative environments\n - Takes ownership and drives initiatives\n - Excellent Communicator",
+
+  "phone_number": "+9779803989860",
+  "email": "anup.khanal246@gmail.com",
+  "linked_in": "linkedin_link",
+  "name": "Anup Khanal",
+  "image": "assets/profile_image.jpg",
+  "skills": [
+    "Android Apps and SDKs",
+    "Flutter, React-Native and Xamarin wrappers for Android SDKs",
+    "Kotlin/Java",
+    "Jetpack Compose",
+    "Hilt/Dagger",
+    "MVVM"
+  ],
+  "experience": [
+    {
+      "company_name": "UXCam",
+      "position": "Senior Android Engineer",
+      "start_end": "Dec 2021 - Present",
+      "description": " - Maintain SDK that runs on thousands of Apps creating millions of sessions every week\n - Maintain cross platform wrappers for the Native SDK\n - Maintain and improve performance and stability of the SDK\n - Plan and build new features and APIs\n - Understand and resolve edge case issues\n - Plan and improve code quality and architecture\n - Support CS team"
+    },
+    {
+      "company_name": "Exotrac, LLC",
+      "position": "Senior Android Developer",
+      "start_end": "August 2019 - November 2021",
+      "description": " - Plan and build Custom Yard Management Solution Android applications\n - Closely work with clients to acquire requirements and deliver products\n - Drive projects and initiatives \n - Resolve issues and maintain stability\n - Continuously improve code quality and architecture"
+    },
+    {
+      "company_name": "Raindrop Inc.",
+      "position": "Android Developer",
+      "start_end": "April 2019 - Aug 2019",
+      "description": " - Build ERP Android App that works alongside its web counterpart\n - Make and implement key architecture to support modular features\n - Closely work with product owners and stakeholders to acquire requirements and iterate on product features"
+    },
+    {
+      "company_name": "Otonomis Pvt. Ltd.",
+      "position": "Android Developer",
+      "start_end": "Mar 2018 - Jan 2019",
+      "description": " - Completed multiple projects in areas of transportation and social media\n - Managed a team of android devs to create an effective unit\n - Focused on individual development of team members to produce long term results\n - Adapted to new technologies together with team to improve stability and developer output\n - Made key decisions for the products in every stage of their development"
+    },
+    {
+      "company_name": "InfoDevelopers Pvt. Ltd.",
+      "position": "Android Developer",
+      "start_end": "Nov 2016 - Jan 2018",
+      "description": " - Quickly acquainted myself with business logic of Branch-less Banking Android App\n - Gained competence in tech such as RxJava and Dagger to drive development\n - Successfully completed the project and oversaw its rollout\n - Built solid trust to support clients"
+    },
+    {
+      "company_name": "Leapfrog Technology",
+      "position": "Software Engineering Intern",
+      "start_end": "Sep 2016 - Nov 2016",
+      "description": " - Collaborated with fellow interns to learn Android development\n - Successfully built a sound analysis app capable of recognizing and visualizing notes from sound\n - Learned and implemented Algorithms for the project"
+    },
+    {
+      "company_name": "Eprima Technology",
+      "position": "Intern PHP Developer",
+      "start_end": "June 2016 - Aug 2016",
+      "description": " - Built websites using PHP and custom CMS\n - Quickly gained competence in PHP and built various websites for multiple clients\n - Built trust and understanding with clients to acquire and manage requirements"
+    }
+  ],
+  "education": [
+    {
+      "school": "Advanced College of Engineering and Management",
+      "course": "Bachelors in Computer Engineering",
+      "university": "Tribhuvan University",
+      "year": "2016"
+    }
+  ]
+}
